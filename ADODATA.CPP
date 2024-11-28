@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "adodata.h"
 //#include "String"//Add
-
+//add
 ADODATA::ADODATA()
 {
 	::CoInitialize(NULL);    //init
